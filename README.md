@@ -1,4 +1,4 @@
-# Hi there, I'm <YOUR_NAME>! 👋 
+# Hi there, I'm Nithya! 👋 
 ### 🐍 Python Full-Stack Developer | Building Scalable Web Ecosystems & Robust APIs
 
 <p align="left">
@@ -23,10 +23,9 @@
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Frameworks** | Python, Django, FastAPI, Flask, Asyncio, Celery, Pytest |
-| **Frontend Architecture** | JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5/CSS3, Tailwind CSS |
-| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Redis, SQLAlchemy ORM, Tortoise ORM |
-| **DevOps & Cloud** | Docker, Docker Compose, AWS (S3, EC2, RDS), GitHub Actions (CI/CD), Nginx |
+| **Backend & Frameworks** | Python, Django, FastAPI, Asyncio, Pytest |
+| **Frontend Architecture** | JavaScript (ES6+), React.js, Next.js, HTML5/CSS3, Tailwind CSS |
+| **Databases & Caching** | MySQL, MongoDB, SQLAlchemy ORM,|
 | **Tools & Version Control**| Git, GitHub, Postman, Linux/Bash, Poetry (Dependency Management) |
 
 ---
