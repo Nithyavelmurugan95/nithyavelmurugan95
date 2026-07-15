@@ -27,8 +27,14 @@
 | **Frontend Architecture** | JavaScript (ES6+), React.js, Next.js, HTML5/CSS3, Tailwind CSS |
 | **Databases & Caching** | MySQL, MongoDB, SQLAlchemy ORM,|
 | **Tools & Version Control**| Git, GitHub, Postman, Linux/Bash, Poetry (Dependency Management) |
-
----
+----
+# Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?
+i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
+tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+</p>
+----
 
 ### 🏆 Featured Open-Source Projects
 
