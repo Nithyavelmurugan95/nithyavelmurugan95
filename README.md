@@ -38,7 +38,7 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 
 ### 🏆 Featured Open-Source Projects
 
-#### 🛡️ [Project Name 1 - e.g., AsyncCommerce API](https://github.com)
+#### 🛡️ [Project Name 1 - e.g., WeatherNow](https://github.com)
 *A full-stack weather web application built with Django REST Framework and React, consuming live data from the OpenWeatherMap API.*
 - **Backend:** Python, Django, Django REST Framework, SQLite3, OpenWeatherMap API
 - **Frontend:** React, Vite, Tailwind CSS, Axios, React Router 
