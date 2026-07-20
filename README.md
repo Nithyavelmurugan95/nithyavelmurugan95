@@ -39,17 +39,21 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 ### 🏆 Featured Open-Source Projects
 
 #### 🛡️ [Project Name 1 - e.g., AsyncCommerce API](https://github.com)
-*A high-throughput, asynchronous e-commerce engine built to scale dynamically.*
-- **Backend:** FastAPI, PostgreSQL, Tortoise ORM, Redis for caching.
-- **Frontend:** React with TypeScript and Tailwind CSS.
+*A full-stack weather web application built with Django REST Framework and React, consuming live data from the OpenWeatherMap API.*
+- **Backend:** Python, Django, Django REST Framework, SQLite3, OpenWeatherMap API
+- **Frontend:** React, Vite, Tailwind CSS, Axios, React Router 
 - **Key Features:** Background task processing via Celery, secure JWT authentication, and fully simulated automated stripe payment checkout.
 
 #### 📊 [Project Name 2 - e.g., PyDash Analytics Dashboard](https://github.com)
 *Real-time system monitoring application serving dynamic telemetry metrics data.*
 - **Backend:** Django Channels, WebSockets, Redis.
 - **Frontend:** Next.js, Chart.js for data mapping, Context API.
-- **Key Features:** Live data streaming over secure sockets, customized multi-tenant RBAC (Role-Based Access Control) authentication.
-
+- **Key Features:** 
+🎨 Dynamic gradient backgrounds based on weather condition and day/night
+📱 Fully responsive (desktop, tablet, mobile)
+📜 Search history with Local Storage (last 5 cities, deduplicated)
+⚠️ Robust error handling (invalid city, network failure, timeout, server error) with retry
+💀 Skeleton loading states
 ---
 
 ### 📊 My GitHub Insights
