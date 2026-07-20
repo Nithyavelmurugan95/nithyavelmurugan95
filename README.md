@@ -69,6 +69,7 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 ### 🤝 Connect with Me
 <p align="left">
   <a href="(https://www.linkedin.com/in/nithya-velmurugan95/)" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
   <a href="https://YOUR_PORTFOLIO_URL" target="blank"><img src="https://shields.io" alt="Portfolio Site" /></a>
   <a href="mailto:nithyavelmurugan.v@gmail.com" target="blank"><img src="https://shields.io" alt="Email" /></a>
 </p>
