@@ -42,18 +42,19 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 *A full-stack weather web application built with Django REST Framework and React, consuming live data from the OpenWeatherMap API.*
 - **Backend:** Python, Django, Django REST Framework, SQLite3, OpenWeatherMap API
 - **Frontend:** React, Vite, Tailwind CSS, Axios, React Router 
-- **Key Features:** Background task processing via Celery, secure JWT authentication, and fully simulated automated stripe payment checkout.
+- **Key Features:**
+🎨 Dynamic gradient backgrounds based on weather condition and day/night
+📱 Fully responsive (desktop, tablet, mobile)
+📜 Search history with Local Storage (last 5 cities, deduplicated)
+⚠️ Robust error handling (invalid city, network failure, timeout, server error) with retry
+💀 Skeleton loading states.
 
 #### 📊 [Project Name 2 - e.g., PyDash Analytics Dashboard](https://github.com)
 *Real-time system monitoring application serving dynamic telemetry metrics data.*
 - **Backend:** Django Channels, WebSockets, Redis.
 - **Frontend:** Next.js, Chart.js for data mapping, Context API.
 - **Key Features:** 
-🎨 Dynamic gradient backgrounds based on weather condition and day/night
-📱 Fully responsive (desktop, tablet, mobile)
-📜 Search history with Local Storage (last 5 cities, deduplicated)
-⚠️ Robust error handling (invalid city, network failure, timeout, server error) with retry
-💀 Skeleton loading states
+
 ---
 
 ### 📊 My GitHub Insights
@@ -67,7 +68,7 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="(https://www.linkedin.com/in/nithya-velmurugan95/)" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
   <a href="https://YOUR_PORTFOLIO_URL" target="blank"><img src="https://shields.io" alt="Portfolio Site" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img src="https://shields.io" alt="Email" /></a>
+  <a href="mailto:nithyavelmurugan.v@gmail.com" target="blank"><img src="https://shields.io" alt="Email" /></a>
 </p>
